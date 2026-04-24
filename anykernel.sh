@@ -4,16 +4,16 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Euphoria Kernel for X01BD by Rissu @ rsukrnlprjkt
+kernel.string=Euphoria Kernel for X00TD by Rissu @ rsukrnlprjkt
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=X01BD
-device.name2=X01BDA
-device.name3=ASUS_X01BD
-device.name4=ASUS_X01BDA
+device.name1=X00TD
+device.name2=X00TDA
+device.name3=ASUS_X00TD
+device.name4=ASUS_X00TDA
 device.name5=
 supported.versions=
 supported.patchlevels=
