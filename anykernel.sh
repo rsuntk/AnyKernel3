@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Euphoria Kernel for X01BD by Rissu @ rsukrnlprjkt
+kernel.string=Luminescence Kernel for X01BD by Rissu @ rsukrnlprjkt
 do.devicecheck=1
 do.modules=0
 do.systemless=1
