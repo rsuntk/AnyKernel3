@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Luminescence Kernel for X00TD by Rissu @ rsukrnlprjkt
+kernel.string=VivLOS Kernel for X00TD by Rissu @ rsukrnlprjkt
 do.devicecheck=1
 do.modules=0
 do.systemless=1
